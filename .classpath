@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="conta-banco/src"/>
+	<classpathentry kind="src" path="DesafioControleFluxo/src"/>
+	<classpathentry kind="src" path="lab-banco-digital-oo-master/src"/>
+	<classpathentry kind="src" path="poo/src"/>
+	<classpathentry kind="lib" path="lab-banco-digital-oo-master/lombok.jar"/>
+	<classpathentry kind="output" path="lab-banco-digital-oo-master/bin"/>
+</classpath>
